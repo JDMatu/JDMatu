@@ -60,12 +60,7 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jdmatu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdmatu&theme=dark&hide_border=false" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmatu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-<!----------------------------------- Footer Section ------------------------------------>
-<p align="center">
-  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/username=jdmatu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jdmatu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
