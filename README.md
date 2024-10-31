@@ -1,59 +1,65 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hello 👋 I'm Juan Diego Matute
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Juan Diego Matute
     <br>
 </h1>
 
 <h3 align="center">
-    <i>Desarrollador apasionado por Python, análisis de datos y desarrollo web eficiente</i>
+    <i>Developer passionate about Python, data analysis and efficient web development</i>
 </h3>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <!----------------------------------- About Section ------------------------------------>
-<br>
+<h2 align="start">📱 Connect with me</h2>
+<br />
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/matudev/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">  MatuDev
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juandiegomatute11@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40">  juandiegomatute11
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/matudev/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto:juandiegomatute11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/jdmatu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+<br />
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-## 💻 Tech Stack 
-<p align="center">
-    <b> Principales Tecnologías:</b>
-    <br>
-    <br>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=ffdd54" />
-
+<h2 align="start">🚀 Languages and Tools</h2>
+<br/>
+<div align="center">
  
-</p>
+ <div align="center"><h3 align="center">Main technologies:</h3>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" alt="html5">
+    <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  align="center" alt="css3">
+    <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+    <img src="https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white"  align="center" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"  align="center" alt="redux" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+    <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=ffdd54"  align="center" alt="react-router" />
+ </div>
+ <br/>
+  <div align="center"><h3 align="center">Other tools and platforms:</h3> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" align="center"  /> 
+    <img src="https://img.shields.io/badge/LangChain-333?style=for-the-badge&logo=langchain&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center"/>
+    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="center"  />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+ </div>
+  
+  
+</div>
 
-<p align="center">
-    <b>Otras Herramientas y Plataformas</b>
-    <br><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-333?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
+<br/>
+<br/>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jdmatu&label=Profile%20views&color=ee4e20&style=flat" alt="jdmatu" /> </p>
+<br>
 
 ---
 
