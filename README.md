@@ -42,12 +42,12 @@ I'm a software developer from Costa Rica building production software where **ba
   <tr><th align="left">layer</th><th align="left">stack</th><th align="left">shipped in</th></tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,django,flask,laravel,ts&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,django,flask,laravel,ts&theme=light"><img src="https://skillicons.dev/icons?i=py,django,flask,laravel,ts&theme=dark" height="40" alt="Python, Django, Flask, Laravel, TypeScript"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/backend-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/backend-light.svg"><img src="./assets/backend-dark.svg" height="40" alt="Python, Django, Flask, Laravel, TypeScript"></picture></td>
     <td>SmartCoop · Gacela</td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=light"><img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark" height="40" alt="PostgreSQL, MySQL, GraphQL"></picture><br><sub>pgvector · SQL modeling</sub></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/data-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/data-light.svg"><img src="./assets/data-dark.svg" height="40" alt="PostgreSQL, MySQL, GraphQL"></picture><br><sub>pgvector · SQL modeling</sub></td>
     <td>Hiring Intelligence · SmartCoop</td>
   </tr>
   <tr>
@@ -57,12 +57,12 @@ I'm a software developer from Costa Rica building production software where **ba
   </tr>
   <tr>
     <td><b>Interfaces</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,react,tailwind&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,react,tailwind&theme=light"><img src="https://skillicons.dev/icons?i=vue,react,tailwind&theme=dark" height="40" alt="Vue, React, Tailwind CSS"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/interfaces-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/interfaces-light.svg"><img src="./assets/interfaces-dark.svg" height="40" alt="Vue, React, Tailwind CSS"></picture></td>
     <td>Gacela</td>
   </tr>
   <tr>
     <td><b>Delivery</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel&theme=light"><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel&theme=dark" height="40" alt="AWS, Docker, Linux, Git, Vercel"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/delivery-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/delivery-light.svg"><img src="./assets/delivery-dark.svg" height="40" alt="AWS, Docker, Linux, Git, Vercel"></picture></td>
     <td>GoLabs production</td>
   </tr>
 </table>
