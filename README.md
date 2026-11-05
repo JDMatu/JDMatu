@@ -1,72 +1,78 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Juan Diego Matute
-    <br>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-dark.svg" alt="Juan Diego Matute. From problem to production. Backend, data and applied AI." width="100%">
+</picture>
 
-<h3 align="center">
-    <i>Developer passionate about Python, data analysis and efficient web development</i>
-</h3>
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<!----------------------------------- About Section ------------------------------------>
-<h2 align="start">📱 Connect with me</h2>
-<br />
-
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/matudev/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="mailto:juandiegomatute11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/jdmatu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-<br />
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2 align="start">🚀 Languages and Tools</h2>
-<br/>
-<div align="center">
- 
- <div align="center"><h3 align="center">Main technologies:</h3>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" alt="html5">
-    <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  align="center" alt="css3">
-    <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-    <img src="https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white"  align="center" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"  align="center" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-    <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=ffdd54"  align="center" alt="react-router" />
- </div>
- <br/>
-  <div align="center"><h3 align="center">Other tools and platforms:</h3> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" align="center"  /> 
-    <img src="https://img.shields.io/badge/LangChain-333?style=for-the-badge&logo=langchain&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center"/>
-    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="center"  />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
- </div>
-  
-  
-</div>
-
-<br/>
-<br/>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jdmatu&label=Profile%20views&color=ee4e20&style=flat" alt="jdmatu" /> </p>
-<br>
-
----
-
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmatu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jdmatu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdmatu&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://portfolio-three-sandy-55.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jdmatu/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:juandiegomatute11@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://portfolio-three-sandy-55.vercel.app/assets/Juan-Diego-Matute-CV.pdf">CV</a>
+</p>
+
+I'm a software developer from Costa Rica building production software where **backend engineering, data and applied AI** meet. Most of what I build starts as a diagram (tables, relations, flows) before it becomes code, and I bring AI in where it improves a process, not because it's trending.
+
+### `> currently`
+
+- **Building** enterprise apps, internal tools and AI features at **GoLabs**
+- **Exploring** agents, MCP, context engineering and LLM evals
+- **Studying** Software Engineering at **Universidad Técnica Nacional**
+
+### `> selected work`
+
+<table>
+  <tr>
+    <td width="200" valign="top"><b><a href="https://www.smartcoopcr.com/">SmartCoop</a></b><br><sub>lead developer · 2023–2026</sub></td>
+    <td>Platform for student cooperatives: members, savings, voting, accounting and reports. Designed the data model and built it from scratch to real users in production.<br><code>Flask</code> <code>MySQL</code> <code>Dashboards</code><br><sub>1st place · Expo Técnica Nacional 2024 &nbsp;·&nbsp; 1st place · Coop Impact, CENECOOP R.L.</sub></td>
+  </tr>
+  <tr>
+    <td width="200" valign="top"><b><a href="https://portfolio-three-sandy-55.vercel.app/projects.html">Hiring Intelligence</a></b><br><sub>applied AI · GoLabs</sub></td>
+    <td>Normalizes job postings, generates embeddings and matches candidates through semantic vector search.<br><code>Django</code> <code>pgvector</code> <code>OpenAI API</code></td>
+  </tr>
+  <tr>
+    <td width="200" valign="top"><b><a href="https://portfolio-three-sandy-55.vercel.app/projects.html">Gacela</a></b><br><sub>enterprise product · GoLabs</sub></td>
+    <td>New modules, business flows and UI work on a live product the team uses every day.<br><code>Vue</code> <code>Laravel</code> <code>GraphQL</code></td>
+  </tr>
+</table>
+
+### `> engineering toolkit`
+
+<table>
+  <tr><th align="left">layer</th><th align="left">stack</th><th align="left">shipped in</th></tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,django,flask,laravel,ts&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,django,flask,laravel,ts&theme=light"><img src="https://skillicons.dev/icons?i=py,django,flask,laravel,ts&theme=dark" height="40" alt="Python, Django, Flask, Laravel, TypeScript"></picture></td>
+    <td>SmartCoop · Gacela</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=light"><img src="https://skillicons.dev/icons?i=postgres,mysql,graphql&theme=dark" height="40" alt="PostgreSQL, MySQL, GraphQL"></picture><br><sub>pgvector · SQL modeling</sub></td>
+    <td>Hiring Intelligence · SmartCoop</td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ai-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/ai-light.svg"><img src="./assets/ai-dark.svg" height="40" alt="OpenAI, Claude, LangChain, MCP"></picture><br><sub>RAG · embeddings · agents · evals</sub></td>
+    <td>Hiring Intelligence · agents</td>
+  </tr>
+  <tr>
+    <td><b>Interfaces</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,react,tailwind&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,react,tailwind&theme=light"><img src="https://skillicons.dev/icons?i=vue,react,tailwind&theme=dark" height="40" alt="Vue, React, Tailwind CSS"></picture></td>
+    <td>Gacela</td>
+  </tr>
+  <tr>
+    <td><b>Delivery</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel&theme=light"><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel&theme=dark" height="40" alt="AWS, Docker, Linux, Git, Vercel"></picture></td>
+    <td>GoLabs production</td>
+  </tr>
+</table>
+
+### `> activity`
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"><source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg"><img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub contributions and profile details"></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg"><source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg"><img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"><source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg"><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most committed languages"></picture>
 </p>

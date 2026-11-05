@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Juan Diego Matute. From problem to production. Backend, data and applied AI.">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#eaeef2" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.42" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.72" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="400" fill="url(#fade)"/></mask>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="398" rx="12"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <g clip-path="url(#card)"><rect width="1200" height="400" fill="url(#grid)" mask="url(#gridMask)"/></g>
+
+  <!-- identity -->
+  <rect x="52.5" y="48.5" width="206" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/>
+  <circle cx="72" cy="63.5" r="4" fill="#1a7f37">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="84" y="68" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#59636e" letter-spacing="0.6">JDMATU · COSTA RICA</text>
+
+  <style>.tw{animation-duration:8.370s;animation-iteration-count:infinite;animation-timing-function:step-end}.blink{animation:blink 1.05s step-end infinite}@keyframes blink{0%{opacity:1}50%{opacity:0}}@media (prefers-reduced-motion: reduce){.tw,.blink{animation:none}}@keyframes c0{0%{opacity:0}8.184%{opacity:1}89.247%{opacity:0}100%{opacity:0}}@keyframes c1{0%{opacity:0}9.200%{opacity:1}88.829%{opacity:0}100%{opacity:0}}@keyframes c2{0%{opacity:0}10.215%{opacity:1}88.411%{opacity:0}100%{opacity:0}}@keyframes c3{0%{opacity:0}11.231%{opacity:1}87.993%{opacity:0}100%{opacity:0}}@keyframes c5{0%{opacity:0}13.262%{opacity:1}87.157%{opacity:0}100%{opacity:0}}@keyframes c6{0%{opacity:0}14.277%{opacity:1}86.738%{opacity:0}100%{opacity:0}}@keyframes c7{0%{opacity:0}15.293%{opacity:1}86.320%{opacity:0}100%{opacity:0}}@keyframes c8{0%{opacity:0}16.308%{opacity:1}85.902%{opacity:0}100%{opacity:0}}@keyframes c9{0%{opacity:0}17.324%{opacity:1}85.484%{opacity:0}100%{opacity:0}}@keyframes c10{0%{opacity:0}18.339%{opacity:1}85.066%{opacity:0}100%{opacity:0}}@keyframes c11{0%{opacity:0}19.355%{opacity:1}84.648%{opacity:0}100%{opacity:0}}@keyframes c12{0%{opacity:0}24.552%{opacity:1}84.229%{opacity:0}100%{opacity:0}}@keyframes c13{0%{opacity:0}25.568%{opacity:1}83.811%{opacity:0}100%{opacity:0}}@keyframes c15{0%{opacity:0}27.599%{opacity:1}82.975%{opacity:0}100%{opacity:0}}@keyframes c16{0%{opacity:0}28.614%{opacity:1}82.557%{opacity:0}100%{opacity:0}}@keyframes c17{0%{opacity:0}29.630%{opacity:1}82.139%{opacity:0}100%{opacity:0}}@keyframes c18{0%{opacity:0}30.645%{opacity:1}81.720%{opacity:0}100%{opacity:0}}@keyframes c19{0%{opacity:0}31.661%{opacity:1}81.302%{opacity:0}100%{opacity:0}}@keyframes c20{0%{opacity:0}32.676%{opacity:1}80.884%{opacity:0}100%{opacity:0}}@keyframes c21{0%{opacity:0}33.692%{opacity:1}80.466%{opacity:0}100%{opacity:0}}@keyframes c22{0%{opacity:0}34.707%{opacity:1}80.048%{opacity:0}100%{opacity:0}}@keyframes c23{0%{opacity:0}35.723%{opacity:1}79.630%{opacity:0}100%{opacity:0}}@keyframes c24{0%{opacity:0}36.738%{opacity:1}79.211%{opacity:0}100%{opacity:0}}@keyframes c25{0%{opacity:0}37.754%{opacity:1}78.793%{opacity:0}100%{opacity:0}}@keyframes cur{0.000%{transform:translate(0.0px,0px)}8.184%{transform:translate(31.2px,0px)}9.200%{transform:translate(62.4px,0px)}10.215%{transform:translate(93.6px,0px)}11.231%{transform:translate(124.8px,0px)}12.246%{transform:translate(156.0px,0px)}13.262%{transform:translate(187.2px,0px)}14.277%{transform:translate(218.4px,0px)}15.293%{transform:translate(249.6px,0px)}16.308%{transform:translate(280.8px,0px)}17.324%{transform:translate(312.0px,0px)}18.339%{transform:translate(343.2px,0px)}19.355%{transform:translate(374.4px,0px)}23.536%{transform:translate(0.0px,64px)}24.552%{transform:translate(31.2px,64px)}25.568%{transform:translate(62.4px,64px)}26.583%{transform:translate(93.6px,64px)}27.599%{transform:translate(124.8px,64px)}28.614%{transform:translate(156.0px,64px)}29.630%{transform:translate(187.2px,64px)}30.645%{transform:translate(218.4px,64px)}31.661%{transform:translate(249.6px,64px)}32.676%{transform:translate(280.8px,64px)}33.692%{transform:translate(312.0px,64px)}34.707%{transform:translate(343.2px,64px)}35.723%{transform:translate(374.4px,64px)}36.738%{transform:translate(405.6px,64px)}37.754%{transform:translate(436.8px,64px)}78.793%{transform:translate(405.6px,64px)}79.211%{transform:translate(374.4px,64px)}79.630%{transform:translate(343.2px,64px)}80.048%{transform:translate(312.0px,64px)}80.466%{transform:translate(280.8px,64px)}80.884%{transform:translate(249.6px,64px)}81.302%{transform:translate(218.4px,64px)}81.720%{transform:translate(187.2px,64px)}82.139%{transform:translate(156.0px,64px)}82.557%{transform:translate(124.8px,64px)}82.975%{transform:translate(93.6px,64px)}83.393%{transform:translate(62.4px,64px)}83.811%{transform:translate(31.2px,64px)}84.229%{transform:translate(374.4px,0px)}84.648%{transform:translate(343.2px,0px)}85.066%{transform:translate(312.0px,0px)}85.484%{transform:translate(280.8px,0px)}85.902%{transform:translate(249.6px,0px)}86.320%{transform:translate(218.4px,0px)}86.738%{transform:translate(187.2px,0px)}87.157%{transform:translate(156.0px,0px)}87.575%{transform:translate(124.8px,0px)}87.993%{transform:translate(93.6px,0px)}88.411%{transform:translate(62.4px,0px)}88.829%{transform:translate(31.2px,0px)}89.247%{transform:translate(0.0px,0px)}94.624%{transform:translate(0.0px,0px)}100%{transform:translate(0px,0px)}}</style>
+  <g aria-hidden="true">
+    <text class="tw" style="animation-name:c0" x="52.0" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">F</text>
+    <text class="tw" style="animation-name:c1" x="83.2" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">r</text>
+    <text class="tw" style="animation-name:c2" x="114.4" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">o</text>
+    <text class="tw" style="animation-name:c3" x="145.6" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">m</text>
+    <text class="tw" style="animation-name:c5" x="208.0" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">p</text>
+    <text class="tw" style="animation-name:c6" x="239.2" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">r</text>
+    <text class="tw" style="animation-name:c7" x="270.4" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">o</text>
+    <text class="tw" style="animation-name:c8" x="301.6" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">b</text>
+    <text class="tw" style="animation-name:c9" x="332.8" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">l</text>
+    <text class="tw" style="animation-name:c10" x="364.0" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">e</text>
+    <text class="tw" style="animation-name:c11" x="395.2" y="164" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">m</text>
+    <text class="tw" style="animation-name:c12" x="52.0" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">t</text>
+    <text class="tw" style="animation-name:c13" x="83.2" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">o</text>
+    <text class="tw" style="animation-name:c15" x="145.6" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">p</text>
+    <text class="tw" style="animation-name:c16" x="176.8" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">r</text>
+    <text class="tw" style="animation-name:c17" x="208.0" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">o</text>
+    <text class="tw" style="animation-name:c18" x="239.2" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">d</text>
+    <text class="tw" style="animation-name:c19" x="270.4" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">u</text>
+    <text class="tw" style="animation-name:c20" x="301.6" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">c</text>
+    <text class="tw" style="animation-name:c21" x="332.8" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">t</text>
+    <text class="tw" style="animation-name:c22" x="364.0" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">i</text>
+    <text class="tw" style="animation-name:c23" x="395.2" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">o</text>
+    <text class="tw" style="animation-name:c24" x="426.4" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1f2328">n</text>
+    <text class="tw" style="animation-name:c25" x="457.6" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="52" font-weight="700" fill="#1a7f37">.</text>
+    <g class="blink"><rect class="tw" style="animation-name:cur" transform="translate(436.8 64)" x="55" y="124" width="4" height="48" rx="1" fill="#1a7f37"/></g>
+  </g>
+
+  <text x="53" y="276" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#59636e">backend <tspan fill="#c8d1da">/</tspan> data <tspan fill="#c8d1da">/</tspan> applied ai</text>
+
+  <text x="53" y="346" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="17" fill="#59636e"><tspan fill="#1f2328" font-weight="600">Juan Diego Matute</tspan>  ·  Software Developer at GoLabs</text>
+
+  <line x1="592" y1="56" x2="592" y2="344" stroke="#d0d7de" stroke-dasharray="3 7"/>
+
+  <!-- how I build -->
+  <text x="1148" y="64" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e" text-anchor="end">problem → production</text>
+
+  <g stroke="#59636e" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="866" y1="144" x2="921" y2="144"/><path d="M913 139 L921 144 L913 149"/></g>
+  <g stroke="#59636e" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="1038" y1="198" x2="1038" y2="241"/><path d="M1033 233 L1038 241 L1043 233"/></g>
+  <g stroke="#59636e" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="922" y1="296" x2="867" y2="296"/><path d="M875 291 L867 296 L875 301"/></g>
+
+  <g>
+    <rect x="640" y="96" width="220" height="96" rx="8" fill="#ffffff"/>
+    <path d="M640 134 V104 Q640 96 648 96 H852 Q860 96 860 104 V134 Z" fill="#f6f8fa"/>
+    <rect x="640" y="96" width="220" height="96" rx="8" fill="none" stroke="#d0d7de" stroke-opacity="1"/>
+    <line x1="640" y1="134" x2="860" y2="134" stroke="#d0d7de"/>
+    <rect x="656" y="111" width="8" height="8" rx="2" fill="#0969da"/>
+    <text x="672" y="121" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#818b98">01 <tspan fill="#1f2328" font-weight="700">schema</tspan></text>
+    <text x="844" y="121" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#818b98" text-anchor="end">design</text>
+    <text x="656" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" fill="#59636e">tables, relations, flows</text>
+  </g>
+  <g>
+    <rect x="928" y="96" width="220" height="96" rx="8" fill="#ffffff"/>
+    <path d="M928 134 V104 Q928 96 936 96 H1140 Q1148 96 1148 104 V134 Z" fill="#f6f8fa"/>
+    <rect x="928" y="96" width="220" height="96" rx="8" fill="none" stroke="#d0d7de" stroke-opacity="1"/>
+    <line x1="928" y1="134" x2="1148" y2="134" stroke="#d0d7de"/>
+    <rect x="944" y="111" width="8" height="8" rx="2" fill="#0969da"/>
+    <text x="960" y="121" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#818b98">02 <tspan fill="#1f2328" font-weight="700">api</tspan></text>
+    <text x="1132" y="121" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#818b98" text-anchor="end">build</text>
+    <text x="944" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" fill="#59636e">business logic as services</text>
+  </g>
+  <g>
+    <rect x="928" y="248" width="220" height="96" rx="8" fill="#ffffff"/>
+    <path d="M928 286 V256 Q928 248 936 248 H1140 Q1148 248 1148 256 V286 Z" fill="#f6f8fa"/>
+    <rect x="928" y="248" width="220" height="96" rx="8" fill="none" stroke="#d0d7de" stroke-opacity="1"/>
+    <line x1="928" y1="286" x2="1148" y2="286" stroke="#d0d7de"/>
+    <rect x="944" y="263" width="8" height="8" rx="2" fill="#0969da"/>
+    <text x="960" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#818b98">03 <tspan fill="#1f2328" font-weight="700">ai</tspan></text>
+    <text x="1132" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#818b98" text-anchor="end">augment</text>
+    <text x="944" y="320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" fill="#59636e">only where it adds value</text>
+  </g>
+  <g>
+    <rect x="640" y="248" width="220" height="96" rx="8" fill="#ffffff"/>
+    <path d="M640 286 V256 Q640 248 648 248 H852 Q860 248 860 256 V286 Z" fill="#f6f8fa"/>
+    <rect x="640" y="248" width="220" height="96" rx="8" fill="none" stroke="#1a7f37" stroke-opacity="0.55"/>
+    <line x1="640" y1="286" x2="860" y2="286" stroke="#d0d7de"/>
+    <circle cx="660" cy="267" r="4" fill="#1a7f37"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text x="672" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#818b98">04 <tspan fill="#1f2328" font-weight="700">product</tspan></text>
+    <text x="844" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#818b98" text-anchor="end">ship</text>
+    <text x="656" y="320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" fill="#59636e">in production, used daily</text>
+  </g>
+</svg>
